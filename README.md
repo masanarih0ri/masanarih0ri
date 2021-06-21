@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 * Vue.js
 * Nuxt.js
 * Typescript
-* Ruby on Rails（基本的にView側のみ。多少helperやcontrollerなどを書くことはできるレベル）
+* Ruby on Rails
 
 ### 趣味程度に触ったことがある言語・フレームワーク・ライブラリ 💪
 * Python(Pandas,Scipyなどを使ったデータ分析、機械学習)
