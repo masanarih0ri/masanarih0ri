@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 ### 趣味程度に触ったことがある言語・フレームワーク・ライブラリ 💪
 * Python(Pandas,Scipyなどを使ったデータ分析、機械学習)
 * PHP（過去に2-3ヶ月勉強したことがある）
-* Ruby on Rails（controller, model, テストなどバックエンドエンジニアの領域）
 * React + Express（TODOアプリやGoogle Books APIからデータ取得をするアプリの作成）
 * Netlify（趣味で作ったものをデプロイするときに使用）
 * Firebase（チャットアプリの作成）
