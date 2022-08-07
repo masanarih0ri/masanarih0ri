@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 職業 👨‍💻
 * 都内のメガベンチャーでフロントエンドエンジニア→社内異動でバックエンドエンジニアをしています。
 * 普段はVue.jsとRuby on Railsを書いていることが多いです。
