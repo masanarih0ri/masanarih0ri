@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **masanarih0ri/masanarih0ri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=masanarih0ri)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masanarih0ri)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masanarih0ri)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=masanarih0ri&column=5&margin-w=30&margin-h=15)
 
 ### 職業 👨‍💻
 * 都内のメガベンチャーでフロントエンドエンジニア→社内異動でバックエンドエンジニアをしています。
